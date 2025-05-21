@@ -7,7 +7,7 @@ Implementation of projects from the [Nand2Tetris](https://www.nand2tetris.org/) 
 | Project | Description | Status |
 |---------|-------------|--------|
 | [01](Project%201/) | Boolean Logic | ✅ Complete |
-| 02 | Boolean Arithmetic | ❌ Incomplete |
+| [02](Project%202/) | Boolean Arithmetic | ✅ Complete |
 | 03 | Sequential Logic | ❌ Incomplete |
 | 04 | Machine Language | ❌ Incomplete |
 | 05 | Computer Architecture | ❌ Incomplete |
